@@ -1,0 +1,22 @@
+C:\Users\wesle\source\repos\ProgramaAurora\ProgramaAurora\bin\Debug\ProgramaAurora.exe.config
+C:\Users\wesle\source\repos\ProgramaAurora\ProgramaAurora\bin\Debug\ProgramaAurora.exe
+C:\Users\wesle\source\repos\ProgramaAurora\ProgramaAurora\bin\Debug\ProgramaAurora.pdb
+C:\Users\wesle\source\repos\ProgramaAurora\ProgramaAurora\obj\Debug\ProgramaAurora.csprojAssemblyReference.cache
+C:\Users\wesle\source\repos\ProgramaAurora\ProgramaAurora\obj\Debug\ProgramaAurora.Form1.resources
+C:\Users\wesle\source\repos\ProgramaAurora\ProgramaAurora\obj\Debug\ProgramaAurora.Properties.Resources.resources
+C:\Users\wesle\source\repos\ProgramaAurora\ProgramaAurora\obj\Debug\ProgramaAurora.csproj.GenerateResource.cache
+C:\Users\wesle\source\repos\ProgramaAurora\ProgramaAurora\obj\Debug\ProgramaAurora.csproj.CoreCompileInputs.cache
+C:\Users\wesle\source\repos\ProgramaAurora\ProgramaAurora\obj\Debug\ProgramaAurora.exe
+C:\Users\wesle\source\repos\ProgramaAurora\ProgramaAurora\obj\Debug\ProgramaAurora.pdb
+C:\Users\Jonatas Martins\Desktop\ProgramaAurora-master\ProgramaAurora-master\bin\Debug\ProgramaAurora.exe.config
+C:\Users\Jonatas Martins\Desktop\ProgramaAurora-master\ProgramaAurora-master\bin\Debug\ProgramaAurora.exe
+C:\Users\Jonatas Martins\Desktop\ProgramaAurora-master\ProgramaAurora-master\bin\Debug\ProgramaAurora.pdb
+C:\Users\Jonatas Martins\Desktop\ProgramaAurora-master\ProgramaAurora-master\obj\Debug\ProgramaAurora.csprojAssemblyReference.cache
+C:\Users\Jonatas Martins\Desktop\ProgramaAurora-master\ProgramaAurora-master\obj\Debug\ProgramaAurora.Properties.Resources.resources
+C:\Users\Jonatas Martins\Desktop\ProgramaAurora-master\ProgramaAurora-master\obj\Debug\ProgramaAurora.csproj.GenerateResource.cache
+C:\Users\Jonatas Martins\Desktop\ProgramaAurora-master\ProgramaAurora-master\obj\Debug\ProgramaAurora.csproj.CoreCompileInputs.cache
+C:\Users\Jonatas Martins\Desktop\ProgramaAurora-master\ProgramaAurora-master\obj\Debug\ProgramaAurora.exe
+C:\Users\Jonatas Martins\Desktop\ProgramaAurora-master\ProgramaAurora-master\obj\Debug\ProgramaAurora.pdb
+C:\Users\Jonatas Martins\Desktop\ProgramaAurora-master\ProgramaAurora-master\obj\Debug\ProgramaAurora.FormJogarDado.resources
+C:\Users\Jonatas Martins\Desktop\ProgramaAurora-master\ProgramaAurora-master\obj\Debug\ProgramaAurora.FormJogarComMaquina.resources
+C:\Users\Jonatas Martins\Desktop\ProgramaAurora-master\ProgramaAurora-master\obj\Debug\ProgramaAurora.FormInicial.resources
